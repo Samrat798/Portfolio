@@ -693,6 +693,7 @@ section {
     padding: 2rem 2.5rem !important;
   }
   .about-container .left-side {
+    text-align: center;
     padding-right: 0;
   }
   .about-container .left-side h4 {
